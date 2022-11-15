@@ -1,0 +1,34 @@
+Running title: Air Pollution and Breast Cancer and J. Brandt received a grant for project NordForsk under the Nordic Programme on Health and Welfare - Project NordicWelfAir #75007. We thank the board of the Danish Nurse Cohort for the permission to use the data. Conflicts of interest: The authors have no conflicts to share. Word count of main text: 839 Word count of abstract: 183
+Total number of tables: 2
+evidence is sparse and inconclusive.
+1993 or 1999, and followed them for incidence of breast cancer (N=1,145) until 2013 in the Danish
+2.5 µg/m3 (PM2.5) and < 10 µg/m3 (PM10), and nitrogen dioxide (NO2) at nurses’ residences since 1990 using an atmospheric chemistry transport model. We examined the association between the 3year running mean of each pollutant and breast cancer incidence using a time-varying Cox regression.
+interval: 0.99; 0.94-1.10 per interquartile range of 3.3 µg/m3), PM10 (1.02; 0.94-1.10 per 2.9 µg/m3) or NO2 (0.99; 0.93-1.05 per 7.4 µg/m3).
+data on the effects of early exposure, before first birth, are needed.
+Experimental data provide some evidence of a link between a number of carcinogens in air pollution and breast cancer, including polycyclic aromatic hydrocarbons (PAHs) which can cause mammary tumors in laboratory animals(1). Epidemiological data are mixed, with case-control studies(2) detected association and cohort studies(3–5) found no association between air pollution and breast cancer incidence. The latest Canadian case-control study found a 26-32% increased risk of pre-menopausal, and 7-10% increased risk of postmenopausal breast cancer, per 10 ppb increase in nitrogen dioxide NO2(2). Three cohort studies did not detect association between breast cancer incidence and NO2(3), PM with diameter < 2.5 µg/m3 (PM2.5) or PM with diameter < 10 µg/m3 (PM10)(3,4), or nitrogen dioxide NOx(5). Only two studies had data on PM2.5 and PM10 (3,4). Here we examined the association between long-term exposure to PM2.5, PM10 and NO2 at the residence and incidence of breast cancer in the nationwide, prospective Danish Nurse Cohort (DNC).
+(8,833) when they answered a questionnaire on working conditions, weight, height, lifestyle, and reproductive factors. Using the unique personal identifying number, we linked nurses to the Central
+and to the Danish Cancer Register for diagnosis of primary invasive breast cancer (ICD-10 code
+baseline. We used the Danish integrated air pollution modelling system (THOR and AirGIS) to estimate human exposure to outdoor air pollution at address level(6). We estimated annual mean concentration of PM2.5, PM10, and NO2 at the residential addresses for nurses with complete information on residential address history 80% of the time between 1990 and 2013, and used the three-year running mean of each pollutant concentrations as the main exposure proxy. We used the time-varying Cox proportional hazards regression to model association between breast cancer incidence and air pollution, with age as the underlying time scale, and stratified by year of birth, in three steps: age adjusted; adjusted additionally for smoking, alcohol consumption, physical activity, and body mass index (BMI); and additionally adjusted for age at 1st birth, parity, age at menarche, hormone therapy (HT) and oral contraceptive (OC) use (described in Table 1). Effect modification by smoking status, BMI, menopausal status at baseline, HT use, and urbanization level was examined by including interaction terms in the model. Effects are reported by hazard ratios (HRs) and 95% confidence intervals (CIs), per interquartile range increase in 3-year mean of pollutant levels. The methods for establishing the cohort(7) and some prior accomplishments related to studying health effect of air pollution (6,8) have been previously described.
+baseline, and 3,927 with missing data on address or confounder, leaving 22,877 for final analyses.
+more likely nulliparous, HT users, and current smokers (Table 1). We found no association between breast cancer incidence and PM2.5, PM10 or NO2 (Table 2), and no interaction by smoking status,
+interaction=0.07) association between breast cancer and PM2.5 in premenopausal (1.06;0.94-1.18) than in postmenopausal (0.93; 0.85-1.05) women, and in past (1.19; 0.97-1.44) and current (1.05; 0.92-1.20) than in never HT users (0.95;0.85-1.05) (p=0.06).
+moderately stronger associations in pre- than in postmenopausal women, in agreement with two studies(2,3). We present novel finding of enhanced association between PM2.5 and breast cancer in past and ever HT users, which needs replication.
+cancer onset, which may not be the relevant exposure window for development of breast cancer. A study found significantly increased breast cancer risk with exposure to traffic emissions at first childbirth, but no risk associated with later exposure windows(9), in line with growing evidence of relevance of early smoking on breast cancer risk(10).
+contrasts, detailed information on breast cancer risk factors, objective validated information on breast cancer onset, and a state of the art high-resolution air pollution model with data on PM.
+References:
+pollution from traffic and cancer incidence : a Danish cohort study. Environ Health2011;10:67.
+term exposure to ambient air pollution and incidence of brain tumours: The Danish Nurse
+cohort. Int J Epidemiol2012;41:1241–7.
+exposure to fine particulate matter and incidence of diabetes in the Danish Nurse Cohort. Environ Int2016;91:243–50.
+emissions throughout life and risk of breast cancer: the Western New York Exposures and
+10.
+incident breast cancer status at follow-up. aAdjusted for age; bModel 1 additionally adjusted for smoking (status and intensity), alcohol use, body mass index, and physical activity; cModel 3 also adjusted for parity, age at 1st birth, age at menarche, hormone therapy use, oral contraceptive use, and menopausal status. Zorana J Andersen, Line Ravnskjaer, Klaus Kaae Andersen, et al. Cancer Epidemiol Biomarkers Prev  Published OnlineFirst December 2, 2016.
+Long-Term Exposure to Fine Particulate Matter and Breast Cancer Incidence in the Danish Nurse Cohort Study Access the most recent version of this article at: doi:10.1158/1055-9965.EPI-16-0578 Author manuscripts have been peer reviewed and accepted for publication but have not yet been edited.
+
+
+
+
+
+Sign up to receive free email-alerts related to this article or journal.
+To order reprints of this article or to subscribe to the journal, contact the AACR Publications Department at pubs@aacr.org. To request permission to re-use all or part of this article, contact the AACR Publications Department at permissions@aacr.org.
+
